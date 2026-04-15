@@ -17,6 +17,7 @@ int main() {
             cout << "Bilangan Bukan Prima";
             return 0;
         }
+        // jika bukan prima langsung berhenti programnya
     }
     cout << "Bilangan Prima";
     return 0;
