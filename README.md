@@ -6,10 +6,10 @@ Anggota:
 </ul>
 Pembagian Tugas:
 <ul>
-<li>Tugas 1 (Baktiar)</li>
-<li>Tugas 2 (Baktiar)</li>
-<li>Tugas 3 (Baktiar)</li>
-<li>Tugas 4 (Addin)</li>
-<li>Tugas 5 (Addin)</li>
-<li>Tugas 6 (Addin)</li>
+<li>Soal 1 (Baktiar)</li>
+<li>Soal 2 (Baktiar)</li>
+<li>Soal 3 (Baktiar)</li>
+<li>Soal 4 (Addin)</li>
+<li>Soal 5 (Addin)</li>
+<li>Soal 6 (Addin)</li>
 </ul>
